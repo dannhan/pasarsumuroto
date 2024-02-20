@@ -1,4 +1,36 @@
-<section class="mx-auto grid max-w-screen-2xl py-12 text-center">
+<script>
+	import Card from './Card.svelte';
+</script>
+
+<section class="flex justify-between py-20">
+	<Card class="text-3xl font-extrabold uppercase text-red-600">
+		<h1>Lebih<br />Dari</h1>
+		<img alt="239" src="/assets/pedagang-more@2x.png" class="w-28" />
+		<h1>Pilihan<br />Pedagang</h1>
+	</Card>
+
+	<Card class="mt-8 text-3xl font-extrabold uppercase text-[#1281A1]">
+		<h1>Tawar<br />Untuk</h1>
+		<img alt="239" src="/assets/rectangle-7209-1@2x.png" class="h-[88px]" />
+		<h1><span class="text-base">Mendapatkan</span> Harga Terbaik</h1>
+	</Card>
+
+	<Card class="text-3xl font-extrabold uppercase text-[#009943]">
+		<h1>Jendela</h1>
+		<img alt="239" src="/assets/homepage-container@2x.png" class="h-[88px]" />
+		<h1>Budaya<br />Lokal</h1>
+	</Card>
+
+	<Card class="mt-8 text-3xl font-extrabold uppercase text-[#FF6B00]">
+		<h1>Dukung</h1>
+		<img alt="239" src="/assets/rectangle-7209@2x.png" class="h-[88px]" />
+		<h1>Ekonomi<br />Kerakyatan</h1>
+	</Card>
+</section>
+
+<div id="separator" class="h-2 rounded-xl bg-indigo-50" />
+
+<section class="grid py-12 text-center">
 	<h1 class="text-3xl font-extrabold">Produk</h1>
 	<h1 class="text-3xl font-extrabold">Pasar Sumuroto</h1>
 
@@ -44,3 +76,5 @@
 		</div>
 	</div>
 </section>
+
+<div id="separator" class="h-2 rounded-xl bg-indigo-50" />

@@ -1,7 +1,7 @@
 <script>
 	import '../app.pcss';
 	import '@fontsource-variable/plus-jakarta-sans';
-  import Header from "./Header.svelte";
+  import Header from "./(components)/Header.svelte";
 </script>
 
 <Header />
