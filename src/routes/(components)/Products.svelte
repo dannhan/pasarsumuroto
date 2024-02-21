@@ -1,6 +1,6 @@
 <section class={$$restProps.class}>
 	<h1 class="text-4xl font-extrabold">Produk</h1>
-	<h1 class="text-4xl font-extrabold">Pasar Sumuroto</h1>
+	<h1 class="text-4xl font-extrabold">Pasar Sumoroto</h1>
 
 	<div class="grid grid-cols-4 gap-4">
 		{#each ['sembako', 'sayur-mayur', 'daging', 'telur', 'aneka-jajanan', 'makanan-ringan', 'pakaian', 'kebutuhan-rumah'] as src (src)}

@@ -8,8 +8,8 @@
 </script>
 
 <svelte:head>
-	<title>Pasar Sumuroto</title>
-	<meta name="description" content="Pasar Sumuroto Landing Page" />
+	<title>Pasar Sumoroto</title>
+	<meta name="description" content="Pasar Sumoroto Landing Page" />
 </svelte:head>
 
 <main>
