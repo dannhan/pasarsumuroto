@@ -7,6 +7,11 @@
 	import Information from './(components)/Information.svelte';
 </script>
 
+<svelte:head>
+	<title>Pasar Sumuroto</title>
+	<meta name="description" content="Pasar Sumuroto Landing Page" />
+</svelte:head>
+
 <main>
 	<Banner />
 
