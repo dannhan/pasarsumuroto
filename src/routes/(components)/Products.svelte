@@ -7,7 +7,7 @@
 			<div class="space-y-2">
 				<div class="relative pb-[200px] xl:pb-[240px]">
 					<img
-						alt=""
+						alt={src}
 						src="/assets/{src}.png"
 						class="absolute left-1/2 h-full -translate-x-1/2 object-cover"
 					/>

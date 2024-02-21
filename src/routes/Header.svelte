@@ -1,11 +1,14 @@
 <script>
-	import HeaderLogo from './HeaderLogo.svelte';
+	import Logo from '$lib/Logo.svelte';
 </script>
 
 <header class={$$restProps.class}>
 	<nav class="mx-auto flex max-w-[1240px] items-center justify-between gap-16">
-		<span class="flex items-center gap-4">
-			<HeaderLogo class="flex gap-4" />
+		<span class="flex items-center gap-8">
+			<Logo class="mx-auto flex h-full gap-4 [text-shadow:0px_3px_4px_rgba(0,0,0,0.45)]">
+				<h2 class="text-2xl font-extrabold leading-none">Pasar Rakyat</h2>
+				<h1 class="text-4xl font-extrabold leading-none">Sumoroto</h1>
+			</Logo>
 
 			<ul class="flex flex-row items-center gap-4 text-xl font-extrabold">
 				<li>
@@ -20,9 +23,8 @@
 			</ul>
 		</span>
 
-		<form class="xl:flex grow border-collapse justify-end hidden">
+		<form class="hidden grow border-collapse justify-end xl:flex">
 			<label for="default-search" class="sr-only">Search</label>
-
 			<input
 				type="search"
 				id="default-search"

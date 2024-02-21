@@ -10,8 +10,8 @@
 
 			<p class="">Dapatkan Kebutuhan Anda di Pasar Sumoroto dengan Mudah, Murah, dan Cepat.</p>
 
-			<div class="ms-3 flex items-center">
-				<img loading="eager" alt="" src="/assets/group-1.svg" />
+			<div class="ms-3 flex items-center gap-2">
+				<img loading="eager" alt="group" src="/assets/group-1.svg" />
 				<p>dengan Lebih dari <span class="text-orange-600">239</span> Pilihan Pedagang</p>
 			</div>
 		</div>
@@ -19,27 +19,27 @@
 		<img
 			id="baju"
 			class="absolute -top-24 right-24 z-10 h-[528px]"
-			alt=""
+			alt="baju"
 			src="/assets/product-categories@2x.png"
 		/>
 		<img
 			id="pembayaran"
 			class="absolute -right-20 -top-32 h-[321px]"
 			loading="eager"
-			alt=""
+			alt="pembayaran"
 			src="/assets/ellipse-5@2x.png"
 		/>
 		<img
 			id="keranjang"
 			class="absolute right-20 top-32 z-20 h-[226px]"
-			alt=""
+			alt="keranjang"
 			src="/assets/ellipse-6@2x.png"
 		/>
 		<img
 			id="uang"
 			class="absolute right-[420px] top-60 z-30 h-[70px]"
 			loading="eager"
-			alt=""
+			alt="uang"
 			src="/assets/ellipse-4@2x.png"
 		/>
 	</div>

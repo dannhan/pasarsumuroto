@@ -5,7 +5,6 @@
 	import Products from './(components)/Products.svelte';
 	import Location from './(components)/Location.svelte';
 	import Information from './(components)/Information.svelte';
-	import Footer from './(components)/Footer.svelte';
 </script>
 
 <main>
@@ -20,6 +19,4 @@
 		<Separator />
 		<Information class="flex flex-col items-center" />
 	</article>
-
-	<Footer />
 </main>

@@ -16,9 +16,10 @@
 
 		<img
 			loading="eager"
-			alt=""
+			alt="qr-code"
 			src="/assets/imageremovebgpreview-1-1@2x.png"
 			class="h-[190px] w-[190px]"
 		/>
 	</div>
 </section>
+
