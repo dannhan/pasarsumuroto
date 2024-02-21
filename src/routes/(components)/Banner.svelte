@@ -1,5 +1,5 @@
-<section class="bg-[#d0e6ec] px-[100px] py-[140px]">
-	<div class="relative mx-auto flex max-w-screen-2xl">
+<header class="bg-[#d0e6ec] px-[100px] py-[140px]">
+	<div class="relative mx-auto flex max-w-[1240px]">
 		<div class="space-y-8">
 			<h2 class="text-4xl font-extrabold">Selamat Datang di Laman Resmi</h2>
 
@@ -43,4 +43,4 @@
 			src="/assets/ellipse-4@2x.png"
 		/>
 	</div>
-</section>
+</header>
