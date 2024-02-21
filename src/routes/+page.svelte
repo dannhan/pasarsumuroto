@@ -12,7 +12,7 @@
 	<Banner />
 
 	<article class="mx-[100px] max-w-[1240px] space-y-12 py-12 min-[1440px]:mx-auto">
-		<List class="flex justify-between" />
+		<List class="flex justify-between px-10" />
 		<Separator />
 		<Products class="grid text-center" />
 		<Separator />
